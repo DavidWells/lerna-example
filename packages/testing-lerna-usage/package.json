@@ -12,5 +12,6 @@
   "dependencies": {
     "testing-lerna-one": "^1.0.1",
     "testing-lerna-two": "^1.0.1"
-  }
+  },
+  "gitHead": "306af75a21f8c391d20dcf695f23047356ee13cf"
 }

@@ -1,1 +1,1 @@
-module.exports = 'lolz'
+module.exports = 'two'
