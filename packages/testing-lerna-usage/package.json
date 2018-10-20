@@ -1,0 +1,16 @@
+{
+  "name": "testing-lerna-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testing-lerna-one": "1.0.0",
+    "testing-lerna-two": "1.0.0"
+  }
+}

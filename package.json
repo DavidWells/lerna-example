@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "test": "lerna run test --stream"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "lerna": "^3.4.3"
+  }
+}
