@@ -11,6 +11,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.0.9](https://github.com/DavidWells/mono-repo-test/compare/testing-lerna-usage@1.0.4...testing-lerna-usage@1.0.9) (2021-05-14)
+
+**Note:** Version bump only for package testing-lerna-usage
+
+
+
+
+
 ## [1.0.5](https://github.com/DavidWells/mono-repo-test/compare/testing-lerna-usage@1.0.4...testing-lerna-usage@1.0.5) (2021-05-14)
 
 **Note:** Version bump only for package testing-lerna-usage

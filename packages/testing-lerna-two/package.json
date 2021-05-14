@@ -1,6 +1,6 @@
 {
   "name": "testing-lerna-two",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "5a4b534281aef6f1caa1c3246b381d43cec0903d"
 }
