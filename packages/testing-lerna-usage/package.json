@@ -1,6 +1,6 @@
 {
   "name": "testing-lerna-usage",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testing-lerna-one": "^1.0.14",
-    "testing-lerna-two": "^1.0.14"
+    "testing-lerna-one": "^1.0.15",
+    "testing-lerna-two": "^1.0.15"
   },
   "gitHead": "5a4b534281aef6f1caa1c3246b381d43cec0903d"
 }
