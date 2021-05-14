@@ -2,10 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "list": "lerna list",
+    "changed": "lerna changed",
     "test": "lerna run test --stream"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
-    "lerna": "^3.4.3"
+    "ava": "^3.15.0",
+    "lerna": "^4.0.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "testing-lerna-two",
-  "version": "1.0.4",
+  "version": "0.2.8",
   "description": "",
   "main": "index.js",
   "scripts": {
