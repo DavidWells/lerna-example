@@ -5,12 +5,13 @@
     "packages/*"
   ],
   "ignoreChanges": [
-    "**/CHANGELOG.md",
+    "**/*.md",
+    "**/package.json",
     "**/package-lock.json",
     "**/test/**",
     "lerna.json",
     "package.json",
-    "README.md"
+    "package-lock.json"
   ],
   "command": {
     "publish": {
