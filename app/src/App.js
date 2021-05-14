@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import lol from 'testing-lerna-one'
+console.log('lol', lol)
 
 function App() {
   return (
