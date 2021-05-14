@@ -1,5 +1,5 @@
 {
-  "name": "my-test-lerna-app",
+  "name": "testing-lerna-react-app-ignore",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
