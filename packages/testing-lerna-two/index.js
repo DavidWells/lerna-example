@@ -1,1 +1,1 @@
-module.exports = 'two' // updatex
+module.exports = 'twox' // updatex
